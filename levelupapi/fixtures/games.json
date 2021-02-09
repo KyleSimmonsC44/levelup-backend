@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Sorry",
+            "game_type": "1",
+            "number_of_players": "4",
+            "gamer": "1",
+            "description": "Board game"
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Tonk",
+            "game_type": "1",
+            "number_of_players": "4",
+            "gamer": "1",
+            "description": "Card Game"
+        }
+    }
+]

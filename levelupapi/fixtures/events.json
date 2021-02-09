@@ -1,0 +1,22 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "event_time": "2020-08-29T13:24:27.172Z",
+            "game": 1,
+            "location": "your moms house",
+            "scheduler": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "event_time": "2020-08-29T13:24:27.172Z",
+            "game": 2,
+            "location": "my moms house",
+            "scheduler": 1
+        }
+    }
+]
